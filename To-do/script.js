@@ -9,7 +9,7 @@ const completedCount = document.querySelector(".numComplete");
 // Initial todo list
 let todos = [
   {
-    todo: "Buy more $WEN tokens for the bull run",
+    todo: "Buy more $WEN and $COM for the bull run",
     id: Date.now().toString(),
     completed: false,
   },
